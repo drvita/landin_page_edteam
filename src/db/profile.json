@@ -1,0 +1,44 @@
+{
+    "name": "Salvador Gonzalez G",
+    "image": "https://avatars.githubusercontent.com/u/65770923?v=4",
+    "custom_data": [
+        {
+            "title": "Toma mejores fotos para tus productos de venta",
+            "url": "https://youtu.be/wtpoMZX7GIw",
+            "description": "Consejos para mejorar las fotografias de nuestros productos de venta en grupos de WhatsApp"
+        },
+        {
+            "title": "¿Pagina Web profesional o gratis?",
+            "url": "https://youtu.be/l-aWE6NX-h8",
+            "description": "Si es hora de poner un sitio Web en tu empresa debes de leer esto antes"
+        }
+    ],
+    "social": [
+        {
+            "name": "linkedin",
+            "link": "https://www.linkedin.com/in/chavagalindo"
+        },
+        {
+            "name": "github",
+            "link": "https://github.com/drvita"
+        },
+        {
+            "name": "youtube",
+            "link": "https://www.youtube.com/channel/UCxwZTdpBcZEsqVWATKXQQJA"
+        },
+        {
+            "name": "whatsapp",
+            "link": "https://wa.me/523141560219"
+        }
+    ],
+    "contacts": [
+        {
+            "type": "email",
+            "value": "chavagalindo@live.com.mx"
+        },
+        {
+            "type": "phone",
+            "value": "+523141560219"
+        }
+    ]
+}
